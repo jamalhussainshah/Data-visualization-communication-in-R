@@ -49,11 +49,11 @@ Examples:
 
 There are numerous charts available with the Plotly library.
 • The types include:
-• Basic Charts 
-• Statistical Charts 
-• Scientific Charts 
-• Financial Charts 
-• Maps 
-• 3D Charts 
-• Subplots
-• Animations
+* Basic Charts 
+* Statistical Charts 
+* Scientific Charts 
+* Financial Charts 
+* Maps 
+* 3D Charts 
+* Subplots
+* Animations
