@@ -10,19 +10,19 @@
 * Infographics
 
 
-Variable width coloumn chart
-Table or Table with Embedded Charts
-Bar Chart 
-Column Chart
-Circular Area Chart  
-Line Chart
-Scatter Chart
-Bubble Chart
-Column Histogram
-Line Histogram
-3D Area Chart
-Pie Chart 
-Waterfall Chart 
+* Variable width coloumn chart
+* Table or Table with Embedded Charts
+* Bar Chart 
+* Column Chart
+* Circular Area Chart  
+* Line Chart
+* Scatter Chart
+* Bubble Chart
+* Column Histogram
+* Line Histogram
+* 3D Area Chart
+* Pie Chart 
+* Waterfall Chart 
 
 
 
