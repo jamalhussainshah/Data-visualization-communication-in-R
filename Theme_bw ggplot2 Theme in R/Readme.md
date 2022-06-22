@@ -6,6 +6,7 @@
 5) Example 4: Draw ggplot2 Barchart Using theme 
 6) Example 5: Draw ggplot2 Boxplot Using theme 
 7) Example 6: Draw ggplot2 Line Plot Using theme  
+
 ![Rplot](https://user-images.githubusercontent.com/95676591/175027961-8a5adf96-53ef-4def-bb43-042591410e59.png)
 ![Rplot01](https://user-images.githubusercontent.com/95676591/175027969-89f44aef-5a94-45d5-8a80-cefabc2b0fda.png)
 ![Rplot02](https://user-images.githubusercontent.com/95676591/175027977-19610796-0609-42c5-b8ee-f7245ffea327.png)
