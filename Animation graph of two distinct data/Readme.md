@@ -18,3 +18,5 @@ Save animation
 If you need to save the animation for later use you can use the anim_save() function.
 
 It works much like ggsave() from ggplot2 and automatically grabs the last rendered animation if you do not specify one directly.
+
+Jamal Hussain Shah 
